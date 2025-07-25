@@ -1,3 +1,2 @@
-Hello, This is file created viva git bash!
-This line is added from the features-hello branch!
-Pull Requests are awesome!
+Line from conflict-B
+Line from conflict-A
